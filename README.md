@@ -1,5 +1,6 @@
 # MainRepository
-Hi,\n
+Hi,
+
 These are some samples of my coursework for my Introduction to Computer Science class.
 
 The class was mainly in C++ during Fall 2016 at Biola University.
