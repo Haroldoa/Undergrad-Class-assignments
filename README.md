@@ -1,11 +1,9 @@
 # MainRepository
 Hi,
 
-These are some samples of my coursework for my Introduction to Computer Science class.
+These are some samples of my coursework for my Introduction to Computer Science class. This was a first semester introduction to C++ programming. It was procedural based, and I am currently in my second semester course of C++, covering object oriented programming.
 
-The class was mainly in C++ during Fall 2016 at Biola University.
-
-We used Visual Studio Express 2013 for all our programming assignments, including our midterm assignment.
+We used Visual Studio Express 2013 for all our programming assignments, including our midterm assignment. I have included my source code and a sample executable of a midterm text-based game.
 
 I have listed some of my weekly programming asssignments in one directory and my midterm assignment in another directory.
 
