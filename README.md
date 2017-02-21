@@ -1,4 +1,4 @@
-# MainRepository
+# University Sample Code and Executables
 Hi,
 
 These are some samples of my coursework for my Introduction to Computer Science class. This was a first semester introduction to C++ programming. It was procedural based, and I am currently in my second semester course of C++, covering object oriented programming.
